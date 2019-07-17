@@ -61,7 +61,7 @@ If you're confused, look at the lecture slide with the title "Lab 3: Hints".
 
 8. Now, give the sidebar a height of 100%, to have it go all the way down the page.
 
-9. Lastly, use the inspector on your browser (right-click on the page, then click "Inspect Element") to remove the `position: relative;` property from the `container` class. Notice how the position of the sidebar and main content changes, and show this demo to the TA to get checked off.
+9. Lastly, use the inspector on your browser (right-click on the page, then click "Inspect Element") to remove the `position: relative;` property from the `container` class. Notice how the position of the sidebar and main content changes.
 
 
 # Lab 3 - Centering and Advanced Selectors
@@ -99,4 +99,4 @@ Open the website you made then right click and inspect element. As you notice, t
 __Edit exercise.html for this portion of the lab__
 1. Make a carousel that displays the images of the animals you listed previously.
 2. Add a "Primary" Button with the text Next, and a "Secondary"Button with the text "Previous"
-3. Show your work to an instructor or TA
+3. Show all your work to an instructor or TA
