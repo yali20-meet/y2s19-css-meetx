@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     background-color: blue;
     opacity: .5;
+    margin:0px;
 }
 
 p {
@@ -16,6 +17,8 @@ p {
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
+    text-align: center;
+    margin: 25px auto;
 }
 
 a {
